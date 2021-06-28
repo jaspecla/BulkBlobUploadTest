@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31320.298
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BulkBlobUploadTest", "BulkBlobUploadTest\BulkBlobUploadTest.csproj", "{511496B5-4877-4D43-9B55-16F06B8D553D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{511496B5-4877-4D43-9B55-16F06B8D553D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{511496B5-4877-4D43-9B55-16F06B8D553D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{511496B5-4877-4D43-9B55-16F06B8D553D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{511496B5-4877-4D43-9B55-16F06B8D553D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E74C6F9D-67FC-43CB-86D0-D18063005A7F}
+	EndGlobalSection
+EndGlobal
